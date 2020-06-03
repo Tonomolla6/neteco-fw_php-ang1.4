@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functions>
+    <function>
+        <name>list_products_add</name>
+        <uri>list_products_add</uri>
+    </function>
+    <function>
+        <name>list_categories</name>
+        <uri>list_categories</uri>
+    </function>
+    <function>
+        <name>list_subcategories</name>
+        <uri>list_subcategories</uri>
+    </function>
+    <function>
+        <name>list_products</name>
+        <uri>list_products</uri>
+    </function>
+    <function>
+        <name>count_products</name>
+        <uri>count_products</uri>
+    </function>
+    <function>
+        <name>list_likes</name>
+        <uri>list_likes</uri>
+    </function>
+    <function>
+        <name>remove_like</name>
+        <uri>remove_like</uri>
+    </function>
+    <function>
+        <name>add_like</name>
+        <uri>add_like</uri>
+    </function>
+    <function>
+        <name>products_categories</name>
+        <uri>products_categories</uri>
+    </function>
+    <function>
+        <name>details</name>
+        <uri>details</uri>
+    </function>
+</functions>

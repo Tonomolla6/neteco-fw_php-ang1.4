@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functions>
+    <function>
+        <name>view_signin</name>
+        <uri>view_signin</uri>
+    </function>
+    <function>
+        <name>view_checking</name>
+        <uri>view_checking</uri>
+    </function>
+    <function>
+        <name>login</name>
+        <uri>login</uri>
+    </function>
+    <function>
+        <name>checking</name>
+        <uri>checking</uri>
+    </function>
+    <function>
+        <name>logout</name>
+        <uri>logout</uri>
+    </function>
+    <function>
+        <name>time</name>
+        <uri>time</uri>
+    </function>
+    <function>
+        <name>signin</name>
+        <uri>signin</uri>
+    </function>
+    <function>
+        <name>check</name>
+        <uri>check</uri>
+    </function>
+    <function>
+        <name>restart</name>
+        <uri>restart</uri>
+    </function>
+    <function>
+        <name>change</name>
+        <uri>change</uri>
+    </function>
+    <function>
+        <name>social_login</name>
+        <uri>social_login</uri>
+    </function>
+</functions>

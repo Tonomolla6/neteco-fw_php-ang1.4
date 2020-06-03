@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functions>
+    <function>
+        <name>money_checking</name>
+        <uri>money_checking</uri>
+    </function>
+    <function>
+        <name>insert_cart_user</name>
+        <uri>insert_cart_user</uri>
+    </function>
+    <function>
+        <name>list_products</name>
+        <uri>list_products</uri>
+    </function>
+    <function>
+        <name>select_cart_user</name>
+        <uri>select_cart_user</uri>
+    </function>
+    <function>
+        <name>stock_checking</name>
+        <uri>stock_checking</uri>
+    </function>
+</functions>

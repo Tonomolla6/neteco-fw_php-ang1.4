@@ -1,0 +1,51 @@
+<title>Iniciar sesión | Productos de hostelería</title>
+
+<div style="width: 100% !important;" class="page">
+    <div class="transparencia">
+        <div id="login_box" class="box">
+            <h1>NETECO  -  Login</h1>
+            <hr>
+            <div method="post" class="inputs">
+                <label for="email">Email*:</label>
+                <input name="email" type="email" placeholder="joanlopez@gmail.com" value="">
+                <span id="error_email" classs="error"></span>
+
+                <label for="password">Contraseña*:</label>
+                <input name="password" type="password" placeholder="*******" value="">  
+                <span id="error_password" class="error"></span>
+                
+                <input id="login_" class="add_button" name="login" type="button" value="Iniciar sesión">
+
+                <div class="social">
+                    Inicia session con:
+                    <div class="google"><i class="fab fa-google"></i> Google</div>
+                    <div class="github"><i class="fab fa-github"></i> Github</div>
+                </div>
+
+                <p>No tienes una cuenta creada? <a class="signin">Regístrate</a></p>
+                <p>Has olvidado la contraseña? <a class="restart">Restablecer</a></p>
+            </div>
+        </div>
+        <div class="box_check">
+            <h1>Se ha cerrado la sesión pulsa para identificarte</h1>
+            <div>
+                <div id="login" class="add_button login">Iniciar sesión</div>
+                <div id="home" class="add_button home">Volver a la pagina principal</div>
+            </div>
+            
+        </div>
+        <div id="restart" class="box">
+            <h1>NETECO  -  Restablecer contraseña</h1>
+            <hr>
+            <div method="post" class="inputs">
+                <label for="email_2">Email*:</label>
+                <input name="email_2" type="email" placeholder="joanlopez@gmail.com" value="">
+                <span id="error_email_2" class="error"></span>
+                <span id="succes_email_2" class="succes"></span>
+    
+                <input id="restart_button" class="add_button" name="login" type="button" value="Enviame correo">
+                <p>Has recordado la contraseña? <a class="login">Iniciar sesión</a></p>
+            </div>
+        </div>
+    </div>
+</div>

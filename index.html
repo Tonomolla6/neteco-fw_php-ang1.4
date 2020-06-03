@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html ng-app="neteco" ng-app lang="es">
+    <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Neteco | Productos de hostelería</title>
+
+        <!-- css -->
+            <!-- libs -->
+                <link href="frontend/assets/css/font-awesome/css/all.css" rel="stylesheet" type="text/css">
+                <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap" rel="stylesheet"/>
+
+            <!-- web inc style -->
+                <link rel="stylesheet" href="frontend/assets/css/style.css" type="text/css" >
+    </head>
+    <body>
+
+        <!-- web inc view -->
+            <div ng-include='"frontend/assets/inc/header.view.html"'></div>
+            <div ng-view></div>
+            <div ng-include='"frontend/assets/inc/footer.view.html"'></div>
+
+        <!-- js -->
+            <!-- libs -->
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.9/angular.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.9/angular-route.min.js"></script>
+
+            <!-- frontend -->
+                <script src="frontend/app.js"></script>
+                <script src="frontend/apiconnector.js"></script>
+    </body>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functions>
+    <function>
+        <name>categories</name>
+        <uri></uri>
+    </function>
+    <function>
+        <name>subcategories</name>
+        <uri></uri>
+    </function>
+</functions>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functions>
+    <function>
+        <name>slider_img_count</name>
+        <uri>slider_img_count</uri>
+    </function>
+    <function>
+        <name>slider_img_change</name>
+        <uri>slider_img_change</uri>
+    </function>
+    <function>
+        <name>slider_subcategoria</name>
+        <uri>slider_subcategoria</uri>
+    </function>
+    <function>
+        <name>slider_products</name>
+        <uri>slider_products</uri>
+    </function>
+    <function>
+        <name>update_clicks</name>
+        <uri>update_clicks</uri>
+    </function>
+</functions>
